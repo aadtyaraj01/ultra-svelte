@@ -3,7 +3,8 @@
   import Navbar from '$lib/components/Navbar.svelte'
 </script>
 
-<Navbar />
-<div class="grid h-screen w-full place-items-center">
+<a href="/comp">Components 🧪</a>
+<a href="/test">Tests 🧑🏼‍💻</a>
+
+
   <slot />
-</div>
