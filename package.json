@@ -30,6 +30,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"lucide-svelte": "^0.378.0"
+		"lucide-svelte": "^0.378.0",
+		"swiper": "^11.1.3"
 	}
 }
